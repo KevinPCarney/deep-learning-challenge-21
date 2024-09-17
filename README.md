@@ -1,2 +1,2 @@
 # deep-learning-challenge-21
-This is a repository for the Module 21 homework.
+This homework involved reviewing a csv called "Charity.csv".  After preprocessing the data we needed to run the notebook in google collab and work to train neural networks on their ability to predict whether a charity campaign would be successful.  4 neural networks were created with different parameters and activations to attempt to achieve 75% predictive accuracy for the network. 
